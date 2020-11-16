@@ -273,3 +273,130 @@ ol li{
 	margin-left: 1200px;
     line-height: 56px;
 }	
+
+/*Birthday an Hollande*/
+
+body	{
+	background: #FFFFFF; ;
+	color: #000000;
+	font-family: 'Roboto', serif;
+	font-size: 16px;
+	font-weight: lighter;
+}
+
+/* Main title */
+h1	{
+	font-family: 'Indie Flower', cursive;
+	color: black;
+	font-size: 72px;
+	font-weight: 400;
+}
+
+
+/* Event */
+h2	{
+	font-family: 'Roboto';
+	color: #000000;
+	font-size: 32px;
+	font-weight: 500;
+
+}
+
+/* Subtitle */
+h3	{
+	font-family: "Roboto";
+	color: #000000;
+	font-size: 18px;
+	font-weight: 500;
+}
+
+/* link */
+
+a {
+	font-family: 'Roboto', sans-serif;
+	text-decoration: none;
+	color: #000000;
+	font-weight: 500;
+	font-size: 16px;
+	}	
+
+/* link 2 */
+??
+
+
+/* btn events */
+.btn-grey {
+	background-color: rgb(201,201,201);
+	color: #090909;
+	padding: 0px;
+	border-radius: 0px;
+	width: 280px;
+	height: 54px;
+	text-align: center;
+}
+
+
+
+
+/* card */
+.cards{
+	margin: 10px;
+	padding: 10px;
+}
+
+
+.card-bouquets {
+	background-color: white;
+	padding: 0px;
+	width: 400px;
+	height: 176px;
+	float: left;
+
+}
+
+.text-card {
+	background-color: ##E8DED2;
+	width: 400px ;
+	height: 65px;
+
+}
+
+.big-card {
+	background-color: white;
+	padding: 50% ;
+	width: 593px;
+	height: 474px;
+}
+
+/* avatar */
+.avatar {
+	border-radius: 50%;
+	width: 48px;
+	height: 48px;
+}
+
+nav {
+	width: 100%;
+	height:100px;
+	line-height;
+}
+
+.navlist {
+
+}
+
+.navlist li {
+	list-style: none;
+	display: inline-block;
+	float: left;
+	line-height: 100px;
+}
+
+.navlist li a  {
+	display: block;
+	text-decoration: none;
+	font-size: 14px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 500;
+	padding: 0 20px;
+}
