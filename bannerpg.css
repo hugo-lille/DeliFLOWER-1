@@ -1,0 +1,39 @@
+/* banner pg */
+.bannerpg {
+	background-image:url(../../images/intestazione.jpg);
+	color: #C4C4C4;
+	width: 1440px;
+	height: 206px;
+	background-size: cover;
+	background-position: center;
+	left: 0px;
+	top: 0px;
+}
+
+.bannerpg-gray {
+	width: 1440px;
+	height: 206px;
+	color: #C4C4C4
+}
+
+.bannerpg h1 {
+	color: black;
+	text-align: center;
+	left: 262px;
+	top: 10px;
+}
+
+.bannerpg h3 {
+	color: black;
+	text-align: center;
+	left: 246px;
+	top: 111px;
+}
+
+body {
+	background: #FFFFFF; ;
+	color: #000000;
+	font-family: 'Roboto', serif;
+	font-size: 16px;
+	font-weight: lighter;
+}
