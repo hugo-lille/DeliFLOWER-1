@@ -381,7 +381,7 @@ ol li{
 
 /* HEADER */
 
-.header{
+.headerEvents{
 	height: 206px;
 	background : url("img/Header.png") center;
 	width: 1368px;
@@ -389,7 +389,7 @@ ol li{
 	margin-left: -10px;
 }
 
-.header h1{
+.headerEvents h1{
 	font-family: Indie Flower;
 	font-size: 72px;
 	font-weight: 400;
@@ -398,7 +398,7 @@ ol li{
 }
 
 
-.header p { 
+.headerEvents #events { 
 	font-family: Roboto;
 	font-weight: 300;
 	font-size: 24px;
